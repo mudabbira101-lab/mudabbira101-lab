@@ -1,16 +1,13 @@
-## Hi there 👋
+Mudabbir Ali
 
-<!--
-**mudabbira101-lab/mudabbira101-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Flutter & Mobile Apps | MERN Stack & Full-Stack Web | Passionate About Building Impactful Solutions
 
-Here are some ideas to get you started:
+I'm Mudabbir Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing an ACCP Prime Diploma in Software Engineering at Aptech Shahrah-e-Faisal.
+
+Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.
+
+I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.
+
+My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
