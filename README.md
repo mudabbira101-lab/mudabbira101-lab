@@ -1,6 +1,6 @@
  Mudabbir Ali
 
-Aspiring Software Engineer | Flutter & Mobile Apps | Python & Full-Stack Web | Passionate About Building Impactful Solutions
+ Aspiring Software Engineer | Flutter & Mobile Apps | Python & Full-Stack Web | Passionate About Building Impactful Solutions
 
 ---
 
@@ -18,6 +18,5 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
  Education
 
-ACCP Prime Diploma in Software Engineering** — Aptech Shahrah-e-Faisal, Karachi *(Continue)*
-
-Intermediate — Sindh Muslim (SM) Science College, Karachi
+- ACCP Prime Diploma in Software Engineering** — Aptech Shahrah-e-Faisal, Karachi *(Continue)*
+- Intermediate — Sindh Muslim (SM) Science College, Karachi
