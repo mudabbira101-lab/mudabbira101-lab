@@ -54,3 +54,21 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Pakistan Sign Language (PSL) Translator App
+A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
+- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
+
+### Full-Stack & MERN Web Applications
+Responsive full-stack web applications built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with RESTful API integration, as well as classic web projects using PHP & Laravel.
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JavaScript, Tailwind CSS, Bootstrap, Laravel, MySQL
+
+---
+
+## Connect with Me
+
+> *"Always eager to learn, build, and collaborate."*
