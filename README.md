@@ -4,15 +4,11 @@
 
 ---
 
-I'm Mudabbir Ali — a passionate Software Engineering student based in Karachi, Pakistan.
+I'm Mudabbir Ali — a driven Software Engineering student based in Karachi, Pakistan, specializing in mobile app development and scalable web applications.
 
-I am currently pursuing an ACCP Prime Diploma in Software Engineering from Aptech Shahrah-e-Faisal.
+Currently pursuing an ACCP Prime Diploma in Software Engineering at Aptech Shahrah-e-Faisal, I focus on solving real-world problems through clean code and modern architecture. My hands-on experience ranges from building cross-platform mobile apps using Flutter & Firebase to integrating machine learning models with Python, alongside constructing full-stack web solutions.
 
-Through my academic journey, I have developed a strong passion for technology and real-world problem-solving. I have worked on several academic and personal projects that have strengthened my practical understanding of software development — from front-end to back-end concepts across mobile and web platforms.
-
-I am always eager to learn, build projects, and collaborate with others. Currently, I am looking for internship and project opportunities to grow further and gain hands-on experience in the tech industry.
-
-My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
+I am constantly refining my technical stack, exploring emerging technologies, and seeking internship or collaborative project opportunities where I can contribute to high-impact products and grow as a software engineer.
 
 ---
 
@@ -77,4 +73,4 @@ Responsive full-stack web applications built using the MERN stack (MongoDB, Expr
 
 ---
 
-> *"Always eager to learn, build, and collaborate."*
+> *"Driven by continuous learning, purposeful code, and building impactful solutions."*
